@@ -1,1 +1,1 @@
-public class Food {    public static void main(String[] args) {    }}
+public class Food {    public static void main(String[] args) {        System.out.println("We can@t be alive without food");    }}
